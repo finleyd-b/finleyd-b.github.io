@@ -1,0 +1,15 @@
+---
+title: Personal Projects
+---
+
+Project gallery for personal projects related to statistics and data visualization!
+
+### Bay-Tabase: 50 Years of San Francisco Bay Water Quality
+<!--The three hashtags above mean header size 3 (smaller than 1 and 2) -->
+<iframe
+height="400"
+width="100%"
+style="border: 3px solid #DA70D6; border-radius: 10px"
+src=https://eevaz1-finley-dibert0burgwin.shinyapps.io/project/></iframe>
+<figcaption style="color:#DA70D6"> This Shiny Application was created to display the data collected by USGS for the "Water Quality of San Francisco Bay Project." Click this <a href="https://eevaz1-finley-dibert0burgwin.shinyapps.io/project/" target="_blank">link</a> to view the app in an external tab.
+</figcaption>

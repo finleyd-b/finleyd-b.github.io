@@ -1,0 +1,40 @@
+project:
+  type: website
+
+website:
+  title: "Finley Dibert-Burgwin"
+  open-graph: true # https://quarto.org/docs/websites/website-tools.html#open-graph
+  page-footer: "Made with ♥ and Quarto"
+  search:
+    location: navbar
+    type: overlay
+  navbar: # Could also do "sidebar"
+    # left:
+      # - text: Home
+        # href: index.qmd   These lines are redundant because the title is a link back
+        # to the homepage as well
+    right:
+      - href: experience.qmd
+        text: Experience
+        icon: book
+      - href: projects.qmd
+        text: Personal Projects
+        icon: pencil
+  #  - href: r-exploration.qmd
+  #     text: R-Exploration
+  #     icon: laptop
+  #   - href: photogallery.qmd
+  #     text: Photo Gallery
+  #     icon: camera
+      - href: movieblog/index.qmd
+        text: Film
+        icon: film
+  
+format:
+  html:
+    backgroundcolor: "#FFFFF0" 
+    linkcolor: "#DA70D6"
+    fontcolor: "#DA70D6"
+    #"#FF34B3"
+    fontsize: 17px
+    theme: [cosmo, styles.scss]
