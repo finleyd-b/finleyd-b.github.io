@@ -7,3 +7,5 @@
 [1,"\u001B[32mWatching files for changes\u001B[39m\n\u001B[32mBrowse at \u001B[39m\u001B[4m\u001B[32mhttp://localhost:3689/movieblog/index.html\u001B[39m\u001B[24m\n"]
 [1,"\u001B[32mGET: /movieblog/index.html\u001B[39m\n"]
 [1,"\u001B[32mGET: /movieblog/index.html\u001B[39m\n"]
+[1,"\u001B[31mGET: /movieblog/index.html (404: Not Found)\u001B[39m\n"]
+[1,"\u001B[31mGET: /movieblog/index.html (404: Not Found)\u001B[39m\n"]
