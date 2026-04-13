@@ -18,14 +18,14 @@
     "href": "index.html#oregon-state",
     "title": "FinleyDibert-Burgwin",
     "section": "Oregon State",
-    "text": "Oregon State\n\nI came into Oregon State as a declared marine biology major, but in my time here I’ve taken photography courses, line dancing, and more. I fell in love with statistics after I took my first course my junior year, and I immediately looked into a double major. However, I soon realized that while OSU has the only dedicated statistics program in Oregon, it doesn’t offer an undergraduate major—just a minor and graduate program. I declared a minor in statistics and am hoping to earn my master’s after I finish my B.S. this summer. Along with my schoolwork, I’ve enjoyed being a learning assistant for the statistics department. I love working directly with students to facilitate better learning in the classroom, especially in regards to a topic that I’m so passionate about."
+    "text": "Oregon State\n\nI came into Oregon State as a declared marine biology major, but in my time here I’ve taken photography courses, line dancing, and more. I fell in love with statistics after I took my first course my junior year; and I immediately looked into a double major. However, I soon realized that while OSU has the only dedicated statistics program in Oregon, it doesn’t offer an undergraduate major—just a minor and graduate program. I declared a minor in statistics and am hoping to earn my master’s after I finish my B.S. this summer. Along with my schoolwork, I’ve enjoyed being a learning assistant for the statistics department. I love working directly with students to facilitate better learning in the classroom, especially in regards to a topic that I’m so passionate about."
   },
   {
     "objectID": "index.html#looking-to-the-future",
     "href": "index.html#looking-to-the-future",
     "title": "FinleyDibert-Burgwin",
     "section": "Looking to the future",
-    "text": "Looking to the future\n\n…"
+    "text": "Looking to the future\n\nIn the next year, I hope to be accepted to a master’s program in statistics, where I can continue developing my data science skills and strengthening my theoretical foundations. I’m excited to see where the journey takes me!"
   },
   {
     "objectID": "movies.html",
@@ -46,7 +46,7 @@
     "href": "movieblog/index.html",
     "title": "Movies & TV",
     "section": "",
-    "text": "Where I yap about movies and TV! Uploading my Letterboxd posts to practice using the blog format.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nElvis\n\n\n\n\n\n⭐⭐⭐⭐⭐\n\n\n\n\n\nJul 7, 2022\n\n\n\n\n\n\n\n\n\n\n\n\nMinions: The Rise of Gru\n\n\n\n\n\n⭐⭐\n\n\n\n\n\nJul 4, 2022\n\n\n\n\n\n\n\n\n\n\n\n\nSecond Post\n\n\n\n\n\n⭐⭐⭐⭐⭐\n\n\n\n\n\nJul 4, 2022\n\n\n\n\n\n\nNo matching items"
+    "text": "I love movies! I’ve uploaded my Letterboxd activity to practice using the blog function, but you can find my actual Letterboxd account here.\nMy ratings are purely instinctual and based on vibes."
   },
   {
     "objectID": "movieblog/third-post/index.html",
@@ -67,35 +67,35 @@
     "href": "projects.html",
     "title": "Personal Projects",
     "section": "",
-    "text": "Project gallery for personal projects related to statistics and data visualization!\n\nBay-Tabase: 50 Years of San Francisco Bay Water Quality\n\n\n\n\nThis Shiny Application was created to display the data collected by USGS for the “Water Quality of San Francisco Bay Project.” Click this link to view the app in an external tab."
+    "text": "Project gallery for personal projects related to statistics and data visualization!\n\nBay-Tabase: 50 Years of San Francisco Bay Water Quality\n\n\n\n\nThis Shiny Application was created to display the San Francisco Bay’s water quality data from the United States Geological Survey long-term ecological time series. Click this link to view the app in an external tab."
   },
   {
     "objectID": "experience.html",
     "href": "experience.html",
     "title": "Experience",
     "section": "",
-    "text": "Oregon State University | Corvallis, OR | B.S. Marine Biology, Minor in Statistics | CO 2026"
+    "text": "Oregon State University | Corvallis, OR | B.S. Marine Biology, Minor in Statistics | Expected June, 2026"
   },
   {
     "objectID": "experience.html#education",
     "href": "experience.html#education",
     "title": "Experience",
     "section": "",
-    "text": "Oregon State University | Corvallis, OR | B.S. Marine Biology, Minor in Statistics | CO 2026"
+    "text": "Oregon State University | Corvallis, OR | B.S. Marine Biology, Minor in Statistics | Expected June, 2026"
   },
   {
     "objectID": "experience.html#work-experience",
     "href": "experience.html#work-experience",
     "title": "Experience",
     "section": "Work experience",
-    "text": "Work experience\nR-Ladies Corvallis | Co-founder | January, 2026 - Present \n\n\nCo-founded and helped organize a Corvallis chapter focused on building community among R users and hosting workshops and events for members.\n\n\nManage meeting coordination, planning, and outreach.\n\n\nOregon State University | Statistics Learning Assistant | September, 2024 - Present\n\n\nAssisted students in grasping and applying statistical concepts for data-driven problem solving.\n\n\nDemonstrated techniques and supported assignments using R.\n\n\nCollaborated with instructors to improve course materials and enhance student learning experiences.\n\n\n\nDutch Bros Coffee | Barista/Shift Lead | May, 2024 - Present"
+    "text": "Work experience\nR-Ladies Corvallis | Co-founder | January, 2026 - Present \n\n\nCo-founded and helped organize a Corvallis chapter focused on building community among R users and hosting workshops and events for members.\n\n\nManage meeting coordination, planning, and outreach.\n\n\nOregon State University | Statistics Learning Assistant | September, 2024 - Present\n\n\nAssisted students in grasping and applying statistical concepts for data-driven problem solving.\n\n\nDemonstrated techniques and supported assignments using R.\n\n\nCollaborated with instructors to improve course materials and enhance student learning experiences.\n\n\n\nDutch Bros Coffee | Barista/Shift Lead | May, 2024 - Present\n\n\nLed shift operations; coordinating team tasks, delegating responsibilities, and ensuring smooth workflow.\n\n\nAdapted quickly to changing priorities and fast-paced conditions while maintaining strong performance.\n\n\nFostered a positive team environment through communication, collaboration, and support."
   },
   {
     "objectID": "experience.html#relevant-coursework",
     "href": "experience.html#relevant-coursework",
     "title": "Experience",
     "section": "Relevant Coursework",
-    "text": "Relevant Coursework\nIntroduction to Statistical Methods I and II (ST 351, ST 352): Study design, descriptive statistics, probability and sampling distributions, hypothesis testing, regression, ANOVA, and logistic regression.\nMethods of Data Analysis I and II (ST 411, ST 412): Graphical methods, parametric and nonparametric comparisons, ANOVA, simple and multiple linear regression, model diagnostics, and variable selection.\nData Visualization (ST 437): Visual encoding, design principles, and ethical communication. Emphasis on critiquing and creating publication-ready visualizations.\nIntroduction to Mathematical Statistics I and II (ST 421, ST 422): Probability theory, random variables, discrete and continuous distributions, sampling distributions, Central Limit Theorem, estimation, confidence intervals, and hypothesis testing.\nUse and Abuse of Data: Critical Thinking in Science (BDS 211): Critical thinking in data analysis — evaluating logical arguments, identifying unstated assumptions, and recognizing deceptive visualizations, misleading comparisons, and spurious reasoning in the context of biological datasets.\nComputer Programming (CS 201): Fundamental programming concepts, computational thinking, and algorithmic problem-solving applied to real-world problems.\nFoundations of Biological Data Sciences (BDS 310): Scientific computing and data analysis in Python, including data visualization, reproducible research, and applied problem-solving with real-world life sciences datasets.\nApplied Conservation Biology in Gorongosa National Park (Mozambique) (ENSC 399): Hands-on fieldwork in ecological data collection, restoration monitoring, and conservation management. Used R to analyze and communicate field data and scientific findings.\nStatistical Consulting Practicum (ST 407): Observation of and participation in a statistical consulting practicum, gaining exposure to real-world data problems and client communication."
+    "text": "Relevant Coursework\nStatistical Methods I and II (ST 351, ST 352): Study design, descriptive statistics, probability and sampling distributions, hypothesis testing, regression, ANOVA, and logistic regression.\nMethods of Data Analysis I and II (ST 411, ST 412): Graphical methods, parametric and nonparametric comparisons, ANOVA, simple and multiple linear regression, model diagnostics, and variable selection.\nData Visualization (ST 437): Visual encoding, design principles, and ethical communication. Emphasis on critiquing and creating publication-ready visualizations.\nMathematical Statistics I and II (ST 421, ST 422): Probability theory, random variables, discrete and continuous distributions, sampling distributions, Central Limit Theorem, estimation, confidence intervals, and hypothesis testing.\nUse and Abuse of Data: Critical Thinking in Science (BDS 211): Critical thinking in data analysis — evaluating logical arguments, identifying unstated assumptions, and recognizing deceptive visualizations, misleading comparisons, and spurious reasoning in the context of biological datasets.\nComputer Programming (CS 201): Fundamental programming concepts, computational thinking, and algorithmic problem-solving applied to real-world problems.\nFoundations of Biological Data Sciences (BDS 310): Scientific computing and data analysis in Python, including data visualization, reproducible research, and applied problem-solving with real-world life sciences datasets.\nApplied Conservation Biology in Gorongosa National Park (Mozambique) (ENSC 399): Hands-on fieldwork in ecological data collection, restoration monitoring, and conservation management. Used R to analyze and communicate field data and scientific findings.\nStatistical Consulting Practicum (ST 407): Observation of and participation in a statistical consulting practicum, gaining exposure to real-world data problems and client communication."
   },
   {
     "objectID": "experience.html#volunteer-experience",
@@ -103,5 +103,187 @@
     "title": "Experience",
     "section": "Volunteer Experience",
     "text": "Volunteer Experience\nView Acres Elementary | Classroom Aide | September, 2014 - May, 2020\n\n\nLogged 500+ hours supporting 4th and 5th grade students in math, reading, and writing.\n\n\nWorked directly with students during lessons to reinforce concepts and provide individualized support\n\n\nAssisted teacher with classroom activities and helped maintain an engaging learning environment"
+  },
+  {
+    "objectID": "movieblog/fourth-post/index.html",
+    "href": "movieblog/fourth-post/index.html",
+    "title": "Thor: Love and Thunder",
+    "section": "",
+    "text": "Funny"
+  },
+  {
+    "objectID": "movieblog/fourth-post/Untitled.html",
+    "href": "movieblog/fourth-post/Untitled.html",
+    "title": "Thor: Love and Thunder",
+    "section": "",
+    "text": "Funny"
+  },
+  {
+    "objectID": "movieblog/fifth-post/index.html",
+    "href": "movieblog/fifth-post/index.html",
+    "title": "Project Hail Mary",
+    "section": "",
+    "text": "Had the biggest, dumbest smile on my face for the entirety of Rocky-Grace screen time"
+  },
+  {
+    "objectID": "movieblog/sixth-post/index.html",
+    "href": "movieblog/sixth-post/index.html",
+    "title": "Dazed and Confused",
+    "section": "",
+    "text": "Idk why I feel such an intense nostalgia for a time where I wasn’t even born.\n“Wipe that face off your head, bitch.” is top tier writing."
+  },
+  {
+    "objectID": "movieblog/seventh-post/index.html",
+    "href": "movieblog/seventh-post/index.html",
+    "title": "Rio",
+    "section": "",
+    "text": "I want to go to Carnaval. One of the best soundtracks."
+  },
+  {
+    "objectID": "movieblog/eighth-post/index.html",
+    "href": "movieblog/eighth-post/index.html",
+    "title": "Uptown Girls",
+    "section": "",
+    "text": "I’m sorry, but that dude singing “Molly Smiles” did not redeem him sleeping with Rae’s mom for me…😐\nBrittany Murphy was such a beauty\n“‘We need to talk.’ Those are the four most hateful words in the English language.” Dead"
+  },
+  {
+    "objectID": "movieblog/ninth-post/index.html",
+    "href": "movieblog/ninth-post/index.html",
+    "title": "Point Break",
+    "section": "",
+    "text": "What if Icarus was just an insane adrenaline junkie? What an ending, wow.\nWhere do you draw the line between adrenaline lover and adrenaline addict? So much social commentary to be found here."
+  },
+  {
+    "objectID": "movieblog/tenth-post/index.html",
+    "href": "movieblog/tenth-post/index.html",
+    "title": "Always Be My Maybe",
+    "section": "",
+    "text": "“I don’t know how to say this, so I’m just gonna say it badly.”\nCorny in a Netflix original kind of way, but I don’t care."
+  },
+  {
+    "objectID": "movieblog/eleventh-post/index.html",
+    "href": "movieblog/eleventh-post/index.html",
+    "title": "The Spectacular Now",
+    "section": "",
+    "text": "Ouch"
+  },
+  {
+    "objectID": "movieblog/twelfth-post/index.html",
+    "href": "movieblog/twelfth-post/index.html",
+    "title": "Marcello Hernandez: American Boy",
+    "section": "",
+    "text": "I just wanna put him in my pocket"
+  },
+  {
+    "objectID": "movieblog/thirteenth-post/Untitled.html",
+    "href": "movieblog/thirteenth-post/Untitled.html",
+    "title": "Stranger Things 5: The Finale",
+    "section": "",
+    "text": "They could’ve done so much better. High rating because I love the show and still enjoyed this final season, regardless. But, man, I thought they had more to give. I also have a shit ton of questions. Anyways, I’m sad that this is it after ten years! I definitely cried a few times. One of my favorites with the fam and it’ll always be a classic. 🥲"
+  },
+  {
+    "objectID": "movieblog/fourteenth-post/index.html",
+    "href": "movieblog/fourteenth-post/index.html",
+    "title": "Oh. What. Fun.",
+    "section": "",
+    "text": "Every character in this movie is my least favorite person in the world."
+  },
+  {
+    "objectID": "movieblog/fifteenth-post/index.html",
+    "href": "movieblog/fifteenth-post/index.html",
+    "title": "Pride & Prejudice",
+    "section": "",
+    "text": "Mrs. Darcy. Mrs. Darcy. Mrs. Darcy. Mrs. Darcy. AGHHHHHH"
+  },
+  {
+    "objectID": "movieblog/sixteenth-post/index.html",
+    "href": "movieblog/sixteenth-post/index.html",
+    "title": "Hippocrates",
+    "section": "",
+    "text": "Kept having to look up from work, but still really enjoyed"
+  },
+  {
+    "objectID": "movieblog/seventeenth-post/index.html",
+    "href": "movieblog/seventeenth-post/index.html",
+    "title": "Shithouse",
+    "section": "",
+    "text": "Why is college so hard."
+  },
+  {
+    "objectID": "movieblog/twentieth-post/index.html",
+    "href": "movieblog/twentieth-post/index.html",
+    "title": "Bo Burnham: Inside",
+    "section": "",
+    "text": "Watched to feel something"
+  },
+  {
+    "objectID": "movieblog/eighteenth-post/index.html",
+    "href": "movieblog/eighteenth-post/index.html",
+    "title": "The Fall Guy",
+    "section": "",
+    "text": "Watched this again and I don’t know what nonsense I was talking about the first time around. This movie is the perfect run time."
+  },
+  {
+    "objectID": "movieblog/twentythird-post/index.html",
+    "href": "movieblog/twentythird-post/index.html",
+    "title": "Beetlejuice",
+    "section": "",
+    "text": "And at the drive in? 6 stars."
+  },
+  {
+    "objectID": "movieblog/twentyfirst-post/index.html",
+    "href": "movieblog/twentyfirst-post/index.html",
+    "title": "Good Will Hunting",
+    "section": "",
+    "text": "Why don’t you just kill me? That would hurt less."
+  },
+  {
+    "objectID": "movieblog/twentysecond-post/index.html",
+    "href": "movieblog/twentysecond-post/index.html",
+    "title": "The Lost Boys",
+    "section": "",
+    "text": "Best vampire movie, no contest"
+  },
+  {
+    "objectID": "movieblog/nineteenth-post/index.html",
+    "href": "movieblog/nineteenth-post/index.html",
+    "title": "Bugonia",
+    "section": "",
+    "text": "Holy fucking shit I hated every single second of this."
+  },
+  {
+    "objectID": "movieblog/twentyfourth-post/index.html",
+    "href": "movieblog/twentyfourth-post/index.html",
+    "title": "Elemental",
+    "section": "",
+    "text": "Corny aah movie did not do it for me"
+  },
+  {
+    "objectID": "movieblog/twentyfifth-post/index.html",
+    "href": "movieblog/twentyfifth-post/index.html",
+    "title": "Fantastic Mr. Fox",
+    "section": "",
+    "text": "Cozy"
+  },
+  {
+    "objectID": "movieblog/twentysixth-post/index.html",
+    "href": "movieblog/twentysixth-post/index.html",
+    "title": "Supersonic",
+    "section": "",
+    "text": "Hearing them talk about why each of them were in the band made me understand why the band made them hate each other so much lol. However, you can tell that they do really love and respect each other on top of that. Hoping they tour one more time…"
+  },
+  {
+    "objectID": "movieblog/index.html#favorite-films",
+    "href": "movieblog/index.html#favorite-films",
+    "title": "Movies & TV",
+    "section": "Favorite films",
+    "text": "Favorite films"
+  },
+  {
+    "objectID": "movieblog/index.html#recent-activity",
+    "href": "movieblog/index.html#recent-activity",
+    "title": "Movies & TV",
+    "section": "Recent Activity",
+    "text": "Recent Activity"
   }
 ]

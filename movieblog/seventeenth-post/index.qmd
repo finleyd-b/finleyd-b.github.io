@@ -1,0 +1,8 @@
+---
+title: "Shithouse"
+description: "⭐⭐⭐⭐⭐"
+date: "11/11/2025"
+image: "shithouse.jpg"
+---
+  
+Why is college so hard.

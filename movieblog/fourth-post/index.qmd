@@ -1,0 +1,8 @@
+---
+title: "Thor: Love and Thunder"
+description: "⭐⭐⭐⭐"
+date: "7/11/2022"
+image: "thor-loveandthunder.jpg"
+---
+
+Funny

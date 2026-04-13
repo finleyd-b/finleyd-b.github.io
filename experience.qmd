@@ -3,7 +3,7 @@ title: Experience
 ---
 
 ## Education
-**Oregon State University** \| Corvallis, OR \| B.S. Marine Biology, Minor in Statistics \| CO 2026
+**Oregon State University** \| Corvallis, OR \| B.S. Marine Biology, Minor in Statistics \| Expected June, 2026
 
 ## Work experience
 **R-Ladies Corvallis** | Co-founder | January, 2026 - Present
@@ -23,12 +23,17 @@ title: Experience
 </ul>
 <!-- ul = unordered list (the whole bullet list container), 
      li = list item (each individual bullet point),
-     using raw HTML here instead of markdown dashes so we can apply inline CSS styling -->
+     using raw HTML here instead of markdown dashes so I can apply inline CSS styling -->
 
 **Dutch Bros Coffee** | Barista/Shift Lead | May, 2024 - Present
 
+<ul style="margin-top: -1em;">
+  <li>Led shift operations; coordinating team tasks, delegating responsibilities, and ensuring smooth workflow.</li>
+  <li>Adapted quickly to changing priorities and fast-paced conditions while maintaining strong performance.</li>
+  <li>Fostered a positive team environment through communication, collaboration, and support.</li>
+
 ## Relevant Coursework
-**Introduction to Statistical Methods I and II (ST 351, ST 352):**
+**Statistical Methods I and II (ST 351, ST 352):**
 Study design, descriptive statistics, probability and sampling distributions, hypothesis testing, regression, ANOVA, and logistic regression.
 
 **Methods of Data Analysis I and II (ST 411, ST 412):**
@@ -37,7 +42,7 @@ Graphical methods, parametric and nonparametric comparisons, ANOVA, simple and m
 **Data Visualization (ST 437):**
 Visual encoding, design principles, and ethical communication. Emphasis on critiquing and creating publication-ready visualizations.
 
-**Introduction to Mathematical Statistics I and II (ST 421, ST 422):**
+**Mathematical Statistics I and II (ST 421, ST 422):**
 Probability theory, random variables, discrete and continuous distributions, sampling distributions, Central Limit Theorem, estimation, confidence intervals, and hypothesis testing.
 
 **Use and Abuse of Data: Critical Thinking in Science (BDS 211):**
