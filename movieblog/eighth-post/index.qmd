@@ -3,6 +3,7 @@ title: "Uptown Girls"
 description: "⭐⭐"
 date: "3/1/2026"
 image: "uptowngirls.jpg"
+categories: ["⭐⭐"]
 ---
 
 I'm sorry, but that dude singing "Molly Smiles" did not redeem him sleeping with Rae's mom for me...😐

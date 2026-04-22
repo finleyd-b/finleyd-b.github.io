@@ -3,4 +3,5 @@ title: "Minions: The Rise of Gru"
 description: "⭐⭐"
 date: "7/4/2022"
 image: "minions_rise_of_gru.jpg"
+categories: ["⭐⭐"]
 ---

@@ -3,6 +3,7 @@ title: "The Spectacular Now"
 description: "⭐⭐⭐"
 date: "2/14/2026"
 image: "thespectacularnow.jpg"
+categories: ["⭐⭐⭐"]
 ---
   
 Ouch

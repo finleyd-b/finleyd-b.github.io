@@ -3,6 +3,7 @@ title: "Oh. What. Fun."
 description: "⭐"
 date: "12/29/2025"
 image: "ohwhatfun.jpg"
+categories: ["⭐"]
 ---
   
 Every character in this movie is my least favorite person in the world.

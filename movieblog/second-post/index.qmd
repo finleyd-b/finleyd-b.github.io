@@ -3,4 +3,5 @@ title: "Dazed and Confused"
 description: "⭐⭐⭐⭐⭐"
 date: "7/4/2022"
 image: "dazed_and_confused.png"
+categories: ["⭐⭐⭐⭐⭐"]
 ---

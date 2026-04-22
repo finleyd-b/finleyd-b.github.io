@@ -1,8 +1,9 @@
 ---
 title: "Pride & Prejudice"
-description: "⭐"
+description: "⭐⭐⭐⭐⭐"
 date: "12/8/2025"
 image: "prideandprejudice2005.jpg"
+categories: ["⭐⭐⭐⭐⭐"]
 ---
   
 Mrs. Darcy. Mrs. Darcy. Mrs. Darcy. Mrs. Darcy. AGHHHHHH

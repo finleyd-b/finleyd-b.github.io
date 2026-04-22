@@ -3,6 +3,7 @@ title: "Project Hail Mary"
 description: "⭐⭐⭐⭐"
 date: "4/6/2026"
 image: "project_hail_mary.jpg"
+categories: ["⭐⭐⭐⭐"]
 ---
 
 Had the biggest, dumbest smile on my face for the entirety of Rocky-Grace screen time

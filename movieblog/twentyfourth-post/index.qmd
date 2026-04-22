@@ -3,6 +3,7 @@ title: "Elemental"
 description: "⭐⭐"
 date: "10/17/2025"
 image: "elemental.jpg"
+categories: ["⭐⭐"]
 ---
   
 Corny aah movie did not do it for me

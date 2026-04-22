@@ -3,6 +3,7 @@ title: "Shithouse"
 description: "⭐⭐⭐⭐⭐"
 date: "11/11/2025"
 image: "shithouse.jpg"
+categories: ["⭐⭐⭐⭐⭐"]
 ---
   
 Why is college so hard.

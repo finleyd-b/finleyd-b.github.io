@@ -3,6 +3,7 @@ title: "Bo Burnham: Inside"
 description: "⭐⭐⭐⭐⭐"
 date: "10/28/2025"
 image: "inside.jpg"
+categories: ["⭐⭐⭐⭐⭐"]
 ---
   
 Watched to feel something

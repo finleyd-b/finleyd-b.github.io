@@ -3,6 +3,7 @@ title: "Point Break"
 description: "⭐⭐⭐⭐⭐"
 date: "2/21/2026"
 image: "pointbreak.jpg"
+categories: ["⭐⭐⭐⭐⭐"]
 ---
 
 What if Icarus was just an insane adrenaline junkie? What an ending, wow.

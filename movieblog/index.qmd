@@ -4,7 +4,16 @@ listing:
   contents: . # "." means current directory
   sort: "date desc"
   type: default
+  categories: true
 ---
+
+```{=html}
+<style>
+.listing-category {
+  display: none !important;
+}
+</style>
+```
 
 I love movies! I've uploaded my Letterboxd activity to practice using the blog function, but you can find my actual Letterboxd account <a href="https://letterboxd.com/finleydb/" target="_blank">here</a>.
 
@@ -24,4 +33,3 @@ My ratings are purely instinctual and based on vibes.
 :::
 
 ## Recent Activity
-  

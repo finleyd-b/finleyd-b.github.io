@@ -3,6 +3,7 @@ title: "Dazed and Confused"
 description: "⭐⭐⭐⭐⭐"
 date: "4/3/2026"
 image: "dazedandconfused.jpg"
+categories: ["⭐⭐⭐⭐⭐"]
 ---
 
 Idk why I feel such an intense nostalgia for a time where I wasn't even born.

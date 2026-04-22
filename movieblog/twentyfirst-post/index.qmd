@@ -3,6 +3,7 @@ title: "Good Will Hunting"
 description: "⭐⭐⭐⭐⭐"
 date: "10/27/2025"
 image: "goodwillhunting.jpg"
+categories: ["⭐⭐⭐⭐⭐"]
 ---
   
 Why don't you just kill me? That would hurt less.
