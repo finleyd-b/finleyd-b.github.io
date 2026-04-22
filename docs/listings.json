@@ -37,5 +37,9 @@
       "/movieblog/first-post/index.html",
       "/movieblog/second-post/index.html"
     ]
+  },
+  {
+    "listing": "/movieblog/goodwillhunting/index.html",
+    "items": []
   }
 ]
